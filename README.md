@@ -8,3 +8,6 @@ Count lines of files with ext specified
 -p --path set path to count <br>
 -s --suffix set file suffix to count <br>
 -e --exclude set exclusion paths <br>
+
+example:
+LineCounter.py s h,cpp -e lib,libs
